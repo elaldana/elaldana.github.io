@@ -1,10 +1,10 @@
-site: Sidey
+site: Ehrik
 url: #yoururl
-title: Sidey
-description: Simple and minimalistic jekyll blogging theme.
+title: Ehrik
+description: 
 twitter:
   username: #yourusername
-  card: summary
+  card: # summary
   creator: #yourusername
 author:
   twitter: #yourusername
@@ -12,7 +12,7 @@ author:
   avatar:
   email: #youremail
   url: #yoururl
-permalink: pretty
+permalink: # pretty
 
 baseurl: ""
 
