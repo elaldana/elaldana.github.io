@@ -3,9 +3,8 @@ layout: page
 title: About
 ---
 
-## About Me
-- Building tools for Responsible AI at [Credo AI](credo.ai)
-- [Training](https://www.strava.com/athletes/14258814) for [The Canyons 100k](https://canyons.utmb.world/)
-- 🏠 Seattle > 🏛 DC > 🎓 New Haven > 📍 Palo Alto
+**Hi, I'm Ehrik.**
 
-*updated: 2022-12-30*
+I run and work on [tools](credo.ai) for AI Governance in the SF Bay Area.
+
+*All written content on this site is provided under a Creative Commons ShareAlike license. All code is provided under a MIT license unless otherwise stated.*
