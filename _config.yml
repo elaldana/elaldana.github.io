@@ -1,7 +1,7 @@
-site: Ehrik
+site: Ehrik Aldana
 url: #yoururl
-title: Ehrik
-description: 
+title: Ehrik Aldana
+description: Personal site of Ehrik Aldana
 twitter:
   username: #yourusername
   card: # summary
@@ -16,7 +16,7 @@ permalink: # pretty
 
 baseurl: ""
 
-highlighter: none
+highlighter: rouge
 
 exclude:
   - .jekyll-cache
